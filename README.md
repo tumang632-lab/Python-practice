@@ -1,6 +1,7 @@
 # Python-practice
-My Python Learning Projects
+
 Hello! I'm Umang Tiwari.
+
 I am a B.Tech IT student learning Python and programming.
 
 Projects:
